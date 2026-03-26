@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>MirageUI Demo Redirect</title>
+</head>
+<body>
+  <script>
+    (function () {
+      var siteRoot = "/MirageUI/";
+      var path = window.location.pathname || "";
+      var search = window.location.search || "";
+      var hash = window.location.hash || "";
+
+      if (!path.startsWith(siteRoot)) {
+        window.location.replace(siteRoot);
+        return;
+      }
+
+      var relative = path.substring(siteRoot.length);
+      var segments = relative.split("/").filter(Boolean);
+
+      if (segments.length >= 2 && segments[0] === "demos") {
+        var demoId = segments[1];
+        window.location.replace(siteRoot + "demos/" + demoId + "/" + search + hash);
+        return;
+      }
+
+      window.location.replace(siteRoot + search + hash);
+    })();
+  </script>
+</body>
+</html>
