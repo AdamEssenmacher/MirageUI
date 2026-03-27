@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "ControlsSample.Fluent",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-sTdfqCsJR0j4kzfU5j8pw0ioNuBKdS76i+cOtTqgH/g=",
+    "hash": "sha256-l5s8cwt5YSscvQ0TFjGUtUzTVMRd53EVdfDfThh8KDg=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.ykrnppwhq2.js"
@@ -62,6 +62,12 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
         "virtualPath": "CommunityToolkit.Mvvm.wasm",
         "name": "CommunityToolkit.Mvvm.ucadontgjh.wasm",
         "integrity": "sha256-rhn1/veBI4lZg+s/N92heZ+Hj+Kn1SDeDTaZ7a773I0=",
+        "cache": "force-cache"
+      },
+      {
+        "virtualPath": "Microsoft.DotNet.HotReload.WebAssembly.Browser.wasm",
+        "name": "Microsoft.DotNet.HotReload.WebAssembly.Browser.u1l3a5juxx.wasm",
+        "integrity": "sha256-rkSJmrNjT+DDhN4udKoNeMbmFoWTmHrBxWR9/0TMJcw=",
         "cache": "force-cache"
       },
       {
@@ -1200,88 +1206,88 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "ControlsSample.Shared.wasm",
-        "name": "ControlsSample.Shared.tz47ezo8lq.wasm",
-        "integrity": "sha256-Cc8oXxDwjYZulsQMRkRtJz0c386Vlndey695zmS8Aqc=",
+        "name": "ControlsSample.Shared.xneymsx0yh.wasm",
+        "integrity": "sha256-vVS9a+lFk/IemLVj9YYRardYHCia3na/3vqJ4hGZ9rw=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Mirage.Core.wasm",
-        "name": "Mirage.Core.aey6kejtg4.wasm",
-        "integrity": "sha256-ou+F8ZsLgDgokkPBzC4xW8JhrwmK5andH9ngcPJ0QRU=",
+        "name": "Mirage.Core.kbj0b72rsm.wasm",
+        "integrity": "sha256-MFc44ajoG1/PxVzBIQlrX2mYV/h4epUXpJOHpvr44Hs=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Mirage.Maui.wasm",
-        "name": "Mirage.Maui.1nohyeyjmj.wasm",
-        "integrity": "sha256-/dDpi5cnP+I/9ZPLquQcAn9xZqgIVuPtxVAuS+Y7y0g=",
+        "name": "Mirage.Maui.dhxmqagi87.wasm",
+        "integrity": "sha256-/2plvS8Rcs/L5yeONK8tTA7QVF88oZAJDBkZtRqj8Fg=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Mirage.Provider.Fluent.wasm",
-        "name": "Mirage.Provider.Fluent.61trht00ge.wasm",
-        "integrity": "sha256-Ru8rQQ/eXsHyNZisVn73vL0K0RtdZiM/vJabx/wPakY=",
+        "name": "Mirage.Provider.Fluent.3bg4wf8ug5.wasm",
+        "integrity": "sha256-j+denbLAue8Jh9yogtdzwRxQgMP2/pArMQmeKybVx5Y=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Mirage.Provider.LeafletMaps.wasm",
-        "name": "Mirage.Provider.LeafletMaps.4pkceva3bw.wasm",
-        "integrity": "sha256-yP11y5QI+1Ig8h46xopUVLYt4vet46qxo31a2DMoK4A=",
+        "name": "Mirage.Provider.LeafletMaps.suaqp9c7m8.wasm",
+        "integrity": "sha256-dLYhepbDY0NsnQxCAwI93ERZCd+Kqi0H87eVah7UwR8=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Mirage.Web.wasm",
-        "name": "Mirage.Web.lfh78yd84q.wasm",
-        "integrity": "sha256-/wvylzcL5MqgZ9MnVhQ1sPD1YqHvLQbrmXEyZxu7+Ss=",
+        "name": "Mirage.Web.wo2v2vy8ky.wasm",
+        "integrity": "sha256-oKLuciwzpVyStZ1DM7Iqwz1sQcrhv5CCrDUqzPb/Gl4=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "ControlsSample.Fluent.wasm",
-        "name": "ControlsSample.Fluent.qot0age4cj.wasm",
-        "integrity": "sha256-tv8QDLy9FbuD/V9YAMMjXGm9M/x1TLal89smLXJtHhY=",
+        "name": "ControlsSample.Fluent.0imjsfbqcu.wasm",
+        "integrity": "sha256-WJ84bDKMkUPl9Xkxkxs+j1J0oescwVW/1Nj4qXQV8Ck=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "Mirage.Maui.pdb",
-        "name": "Mirage.Maui.5jiyqrua5d.pdb",
-        "integrity": "sha256-UZitnEiXyGIyu5o862gkRoG+cfrlWiKYXGciiVSHhtg=",
+        "name": "Mirage.Maui.po3twqv2sb.pdb",
+        "integrity": "sha256-6e/EJokdy/Uxdd1m+1dW14PawssF982eiyW+pmW0f2U=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Mirage.Provider.Fluent.pdb",
-        "name": "Mirage.Provider.Fluent.irxnz43i76.pdb",
-        "integrity": "sha256-rk0JWjxU/AJBBpATyG34lG9thZ42lDme+Ei+mKiDW6I=",
+        "name": "Mirage.Provider.Fluent.rz0y62r2fg.pdb",
+        "integrity": "sha256-h3eZq+6oRwNz/wB77HASLhKOHmnHH55g7j/guau14o0=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Mirage.Provider.LeafletMaps.pdb",
-        "name": "Mirage.Provider.LeafletMaps.hv3v4gj7lq.pdb",
-        "integrity": "sha256-XdkFMIEyzZUqJViZr79oi6kg1M9wv3etqNexeWHQ6lQ=",
+        "name": "Mirage.Provider.LeafletMaps.iyyg0onqfj.pdb",
+        "integrity": "sha256-+mSDlBhDM/1BRyxoCimN/zUVhZoijaK2rMTf07uSlxM=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Mirage.Web.pdb",
-        "name": "Mirage.Web.pgbsomrs2k.pdb",
-        "integrity": "sha256-9/YS+LoB/+rF2Ba5AlOQcgP3pUM2iofJQiaYs4XBVaY=",
+        "name": "Mirage.Web.3sq4nv8v9z.pdb",
+        "integrity": "sha256-k/MhXhdUWOMGvZZNgH9i3j8DC/qX21YEhZsLpuC9dW8=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Mirage.Core.pdb",
-        "name": "Mirage.Core.stn2jiwhtg.pdb",
-        "integrity": "sha256-IKB52gkmFM5SKGQVuxAeGx3WWOmzXz4oKYjsrpXxP+M=",
+        "name": "Mirage.Core.7nalytrrcs.pdb",
+        "integrity": "sha256-3XDh2R8XyOTnySCKmPJUDJGFiSa2K9X2kBLvenWEYps=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "ControlsSample.Shared.pdb",
-        "name": "ControlsSample.Shared.rc4o10b5id.pdb",
-        "integrity": "sha256-C7290xFbabAEx1SjROXkNC5+paOatFtUoEJXiqVJNGo=",
+        "name": "ControlsSample.Shared.2e5aqroj26.pdb",
+        "integrity": "sha256-yh9zVXU8AVM0BT1OWM+bFOlC0tf8qZM4+kSyhLfYn2I=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "ControlsSample.Fluent.pdb",
-        "name": "ControlsSample.Fluent.agmtgrrckx.pdb",
-        "integrity": "sha256-Ft33nrnSKdL72PR3WmguRtx8OMb8RpPirL1OWBXQ7Q0=",
+        "name": "ControlsSample.Fluent.ewjqyae52p.pdb",
+        "integrity": "sha256-PtFE8vj/wYAN6++sqaGM0VEzr6QPxHDOrmcGnhfZjaw=",
         "cache": "force-cache"
       }
     ],
@@ -1558,7 +1564,17 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
           "cache": "force-cache"
         }
       ]
-    }
+    },
+    "libraryInitializers": [
+      {
+        "name": "_content/Microsoft.DotNet.HotReload.WebAssembly.Browser/Microsoft.DotNet.HotReload.WebAssembly.Browser.99zm1jdh75.lib.module.js"
+      }
+    ],
+    "modulesAfterConfigLoaded": [
+      {
+        "name": "../_content/Microsoft.DotNet.HotReload.WebAssembly.Browser/Microsoft.DotNet.HotReload.WebAssembly.Browser.99zm1jdh75.lib.module.js"
+      }
+    ]
   },
   "debugLevel": -1,
   "globalizationMode": "sharded",
