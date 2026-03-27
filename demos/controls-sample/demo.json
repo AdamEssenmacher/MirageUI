@@ -5,6 +5,6 @@
   "publicPath": "controls-sample",
   "baseHref": "/MirageUI/demos/controls-sample/",
   "sourceRepository": "https://github.com/AdamEssenmacher/maui-browser-wasm.git",
-  "sourceCommit": "b3b71da4d4687d7577cbfd99e454ba7d41253d22",
-  "generatedAtUtc": "2026-03-26T23:39:38Z"
+  "sourceCommit": "9743bb37b8bc20d9899881e530c12b715994c593",
+  "generatedAtUtc": "2026-03-27T00:07:45Z"
 }
