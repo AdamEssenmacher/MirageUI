@@ -1,8 +1,8 @@
-import { dotnet } from "./_framework/dotnet.js?v=46796b0cffbc-20260327125935";
+import { dotnet } from "./_framework/dotnet.js?v=46796b0cffbc-20260331194653";
 
 async function installMirageHotReloadHints() {
   try {
-    const mirageDom = await import("./_framework/mirage-dom.js?v=46796b0cffbc-20260327125935");
+    const mirageDom = await import("./_framework/mirage-dom.js?v=46796b0cffbc-20260331194653");
     mirageDom.installHotReloadHintBridge?.();
   } catch {
     // Hot reload hinting is optional; polling fallback remains active in .NET.

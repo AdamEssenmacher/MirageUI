@@ -1,0 +1,211 @@
+{
+  "version": 1,
+  "images": {
+    "ControlsSample.Shared:animated_heart.gif": "/_mirage/assets/ControlsSample.Shared/animated_heart.206fe77e.gif",
+    "ControlsSample.Shared:books.png": "/_mirage/assets/ControlsSample.Shared/books.2541ba9f.png",
+    "ControlsSample.Shared:calculator.png": "/_mirage/assets/ControlsSample.Shared/calculator.52e2eacd.png",
+    "ControlsSample.Shared:card_background.png": "/_mirage/assets/ControlsSample.Shared/card_background.76996ce3.png",
+    "ControlsSample.Shared:coffee.png": "/_mirage/assets/ControlsSample.Shared/coffee.14632118.png",
+    "ControlsSample.Shared:cog.svg": "/_mirage/assets/ControlsSample.Shared/cog.4aeb5c47.svg",
+    "ControlsSample.Shared:cover1.jpg": "/_mirage/assets/ControlsSample.Shared/cover1.c98844f1.jpg",
+    "ControlsSample.Shared:dotnet_bot.png": "/_mirage/assets/ControlsSample.Shared/dotnet_bot.b70e32ba.png",
+    "ControlsSample.Shared:flowerbuds.jpg": "/_mirage/assets/ControlsSample.Shared/flowerbuds.5c7cea73.jpg",
+    "ControlsSample.Shared:fruits.jpg": "/_mirage/assets/ControlsSample.Shared/fruits.31af10f3.jpg",
+    "ControlsSample.Shared:header_background.png": "/_mirage/assets/ControlsSample.Shared/header_background.43e13098.png",
+    "ControlsSample.Shared:ic_flag.svg": "/_mirage/assets/ControlsSample.Shared/ic_flag.5065215c.svg",
+    "ControlsSample.Shared:legumes.jpg": "/_mirage/assets/ControlsSample.Shared/legumes.e86fa8b6.jpg",
+    "ControlsSample.Shared:mic.png": "/_mirage/assets/ControlsSample.Shared/mic.51e992f5.png",
+    "ControlsSample.Shared:oasis.jpg": "/_mirage/assets/ControlsSample.Shared/oasis.8a7c210d.jpg",
+    "ControlsSample.Shared:photo.jpg": "/_mirage/assets/ControlsSample.Shared/photo.96f635a8.jpg",
+    "ControlsSample.Shared:settings.png": "/_mirage/assets/ControlsSample.Shared/settings.0607f851.png",
+    "ControlsSample.Shared:tb_appicon.png": "/_mirage/assets/ControlsSample.Shared/tb_appicon.84734453.png",
+    "ControlsSample.Shared:thumb_image.svg": "/_mirage/assets/ControlsSample.Shared/thumb_image.9d089ba5.svg",
+    "ControlsSample.Shared:vegetables.jpg": "/_mirage/assets/ControlsSample.Shared/vegetables.de8b2383.jpg"
+  },
+  "logicalPath": {
+    "animated_heart.gif": [
+      "ControlsSample.Shared:animated_heart.gif"
+    ],
+    "books.png": [
+      "ControlsSample.Shared:books.png"
+    ],
+    "calculator.png": [
+      "ControlsSample.Shared:calculator.png"
+    ],
+    "card_background.png": [
+      "ControlsSample.Shared:card_background.png"
+    ],
+    "coffee.png": [
+      "ControlsSample.Shared:coffee.png"
+    ],
+    "cog.svg": [
+      "ControlsSample.Shared:cog.svg"
+    ],
+    "cover1.jpg": [
+      "ControlsSample.Shared:cover1.jpg"
+    ],
+    "dotnet_bot.png": [
+      "ControlsSample.Shared:dotnet_bot.png"
+    ],
+    "flowerbuds.jpg": [
+      "ControlsSample.Shared:flowerbuds.jpg"
+    ],
+    "fruits.jpg": [
+      "ControlsSample.Shared:fruits.jpg"
+    ],
+    "header_background.png": [
+      "ControlsSample.Shared:header_background.png"
+    ],
+    "ic_flag.svg": [
+      "ControlsSample.Shared:ic_flag.svg"
+    ],
+    "legumes.jpg": [
+      "ControlsSample.Shared:legumes.jpg"
+    ],
+    "mic.png": [
+      "ControlsSample.Shared:mic.png"
+    ],
+    "oasis.jpg": [
+      "ControlsSample.Shared:oasis.jpg"
+    ],
+    "photo.jpg": [
+      "ControlsSample.Shared:photo.jpg"
+    ],
+    "settings.png": [
+      "ControlsSample.Shared:settings.png"
+    ],
+    "tb_appicon.png": [
+      "ControlsSample.Shared:tb_appicon.png"
+    ],
+    "thumb_image.svg": [
+      "ControlsSample.Shared:thumb_image.svg"
+    ],
+    "vegetables.jpg": [
+      "ControlsSample.Shared:vegetables.jpg"
+    ]
+  },
+  "fileName": {
+    "animated_heart.gif": [
+      "ControlsSample.Shared:animated_heart.gif"
+    ],
+    "books.png": [
+      "ControlsSample.Shared:books.png"
+    ],
+    "calculator.png": [
+      "ControlsSample.Shared:calculator.png"
+    ],
+    "card_background.png": [
+      "ControlsSample.Shared:card_background.png"
+    ],
+    "coffee.png": [
+      "ControlsSample.Shared:coffee.png"
+    ],
+    "cog.svg": [
+      "ControlsSample.Shared:cog.svg"
+    ],
+    "cover1.jpg": [
+      "ControlsSample.Shared:cover1.jpg"
+    ],
+    "dotnet_bot.png": [
+      "ControlsSample.Shared:dotnet_bot.png"
+    ],
+    "flowerbuds.jpg": [
+      "ControlsSample.Shared:flowerbuds.jpg"
+    ],
+    "fruits.jpg": [
+      "ControlsSample.Shared:fruits.jpg"
+    ],
+    "header_background.png": [
+      "ControlsSample.Shared:header_background.png"
+    ],
+    "ic_flag.svg": [
+      "ControlsSample.Shared:ic_flag.svg"
+    ],
+    "legumes.jpg": [
+      "ControlsSample.Shared:legumes.jpg"
+    ],
+    "mic.png": [
+      "ControlsSample.Shared:mic.png"
+    ],
+    "oasis.jpg": [
+      "ControlsSample.Shared:oasis.jpg"
+    ],
+    "photo.jpg": [
+      "ControlsSample.Shared:photo.jpg"
+    ],
+    "settings.png": [
+      "ControlsSample.Shared:settings.png"
+    ],
+    "tb_appicon.png": [
+      "ControlsSample.Shared:tb_appicon.png"
+    ],
+    "thumb_image.svg": [
+      "ControlsSample.Shared:thumb_image.svg"
+    ],
+    "vegetables.jpg": [
+      "ControlsSample.Shared:vegetables.jpg"
+    ]
+  },
+  "fileStem": {
+    "animated_heart": [
+      "ControlsSample.Shared:animated_heart.gif"
+    ],
+    "books": [
+      "ControlsSample.Shared:books.png"
+    ],
+    "calculator": [
+      "ControlsSample.Shared:calculator.png"
+    ],
+    "card_background": [
+      "ControlsSample.Shared:card_background.png"
+    ],
+    "coffee": [
+      "ControlsSample.Shared:coffee.png"
+    ],
+    "cog": [
+      "ControlsSample.Shared:cog.svg"
+    ],
+    "cover1": [
+      "ControlsSample.Shared:cover1.jpg"
+    ],
+    "dotnet_bot": [
+      "ControlsSample.Shared:dotnet_bot.png"
+    ],
+    "flowerbuds": [
+      "ControlsSample.Shared:flowerbuds.jpg"
+    ],
+    "fruits": [
+      "ControlsSample.Shared:fruits.jpg"
+    ],
+    "header_background": [
+      "ControlsSample.Shared:header_background.png"
+    ],
+    "ic_flag": [
+      "ControlsSample.Shared:ic_flag.svg"
+    ],
+    "legumes": [
+      "ControlsSample.Shared:legumes.jpg"
+    ],
+    "mic": [
+      "ControlsSample.Shared:mic.png"
+    ],
+    "oasis": [
+      "ControlsSample.Shared:oasis.jpg"
+    ],
+    "photo": [
+      "ControlsSample.Shared:photo.jpg"
+    ],
+    "settings": [
+      "ControlsSample.Shared:settings.png"
+    ],
+    "tb_appicon": [
+      "ControlsSample.Shared:tb_appicon.png"
+    ],
+    "thumb_image": [
+      "ControlsSample.Shared:thumb_image.svg"
+    ],
+    "vegetables": [
+      "ControlsSample.Shared:vegetables.jpg"
+    ]
+  }
+}
